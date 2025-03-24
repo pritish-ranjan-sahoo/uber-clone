@@ -9,9 +9,9 @@ This is a full-stack Uber clone built using the MERN stack (MongoDB, Express.js,
 - Token storage in browser cookies
 - Middleware for protected routes
 
-![usersignup](/public/Authentication%20user.png) 
+![AuthenticationUser](/public/Authentication%20user.png) 
 
-![usersignup](/public/Authentication%20captain.png) 
+![AuthenticationCaptain](/public/Authentication%20captain.png) 
 
 
 ### User Features
@@ -21,7 +21,7 @@ This is a full-stack Uber clone built using the MERN stack (MongoDB, Express.js,
 - Live tracking of the ride
 - OTP verification for ride completion
 
-![usersignup](/public/userfeature.png) 
+![userfeature](/public/userfeature.png) 
 
 
 ### Captain Features
@@ -30,12 +30,12 @@ This is a full-stack Uber clone built using the MERN stack (MongoDB, Express.js,
 - Live tracking of the ride
 - Finish the ride after OTP verification
 
-![usersignup](/public/captainfeature.png~) 
+![captainfeature](/public/captainfeature.png~) 
 
 ### WebSocket Implementation
 - Real-time notifications for captains when a new ride is available
 
-![usersignup](/public/usercaptainpov.png) 
+![usercaptainpov](/public/usercaptainpov.png) 
 
 
 ### Backend Features
