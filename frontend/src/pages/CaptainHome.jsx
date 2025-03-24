@@ -52,7 +52,7 @@ const CaptainHome = () => {
 
   async function confirmRide() {
     const response = await axios.post(
-      `http://${import.meta.env.VITE_BASE_URL}/rides/confirm`,
+      `https://${import.meta.env.VITE_BASE_URL}/rides/confirm`,
       {
         rideId: ride._id,
         captainId: captain._id,
