@@ -30,7 +30,7 @@ This is a full-stack Uber clone built using the MERN stack (MongoDB, Express.js,
 - Live tracking of the ride
 - Finish the ride after OTP verification
 
-![captainfeature](/public/captainfeature.png~) 
+![captainfeature](/public/captainfeature.png) 
 
 ### WebSocket Implementation
 - Real-time notifications for captains when a new ride is available
