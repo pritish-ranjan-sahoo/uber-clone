@@ -4,8 +4,8 @@
 This is a full-stack Uber clone built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The application allows users to sign up, book rides, and track them in real time, while captains (drivers) can accept or reject ride requests.
 
 ## Live Demo
-Check out the live demo: [Uber Clone](https://uber-frontend-taupe.vercel.app/)
-
+- Check out the live demo: [Uber Clone](https://uber-frontend-taupe.vercel.app/)
+- Use "Mobile View" for better experience - recommended
 ## Features Implemented
 ### Authentication & Authorization
 - User and Captain signup/login with JWT authentication

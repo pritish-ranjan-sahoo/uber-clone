@@ -51,7 +51,6 @@ const Home = () => {
   });
 
   socket.on("ride-started", (ride) => {
-    console.log("ride");
     setWaitingForDriver(false);
     navigate("/riding", { state: { ride } }); // Updated navigate to include ride data
   });
@@ -224,7 +223,7 @@ const Home = () => {
 
       <Link
         to="/user/logout"
-        className="fixed h-10 w-10 top-5 right-5 bg-white flex items-center justify-center rounded-full z-[-1]"
+        className="fixed h-10 w-10 top-5 right-5 bg-white flex items-center justify-center rounded-full z-[10]"
       >
         <i className="text-lg font-medium ri-logout-box-r-line"></i>
       </Link>
